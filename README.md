@@ -1,5 +1,5 @@
 <!--
-  GitHub Profile README – Sidharth Kardam (QA Testing Focus)
+  GitHub Profile README – Sidharth  (Software Testing Focus)
   Clean • Professional • Recruiter-Friendly • 2026 Ready
 -->
 
