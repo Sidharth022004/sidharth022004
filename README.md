@@ -48,7 +48,7 @@ Currently focused on strengthening my skills in test case design, testing method
 ## 🛠️ Top Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,git,github,vscode,linux" />
 </div>
 
 **Vibe Coding • Node.js • Manual Testing • Web Testing • Bug Reporting • Test Case Design**
