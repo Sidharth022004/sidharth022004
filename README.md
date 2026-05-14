@@ -1,5 +1,5 @@
 <!-- 
-  GitHub Profile README – Sidharth Kardam (QA Testing Focus)
+  GitHub Profile README – Sidharth Kardam (Software Testing Focus)
   Customized exactly from your Profile.pdf – clean, professional, recruiter-friendly 2026 style
   Replace YOUR_GITHUB_USERNAME with your actual GitHub username (required for snake + stats)
 -->
